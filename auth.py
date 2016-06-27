@@ -1,5 +1,5 @@
 # This is my code
-# I love python
+# Test purposes only
 import requests
 
 class blah (object):

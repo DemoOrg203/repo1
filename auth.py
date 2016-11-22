@@ -11,7 +11,7 @@ class blah (object):
 
     def __init__(self, token, base_url=BASE_URL):
         self.token = token
-        self.password = 12345
+        self.password = 123456
         self.base_url = base_url
         self.session = session = requests.session()
         session.headers.update(
